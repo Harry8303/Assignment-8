@@ -1,0 +1,52 @@
+#firstName{
+    font-size: 200%;
+    color: rgb(230, 120, 31);
+    background-color: rgb(214, 189, 143);
+}
+#lastName{
+    font-size: 200%;
+    color: rgb(230, 120, 31);
+    background-color: rgb(214, 189, 143);
+}
+#phoneNumber{
+    font-size: 200%;
+    color: rgb(230, 120, 31);
+    background-color: rgb(214, 189, 143);
+}
+#password{
+    font-size: 200%;
+    color: rgb(230, 120, 31);
+    background-color: rgb(214, 189, 143);
+}
+#a1{
+    color: #4e0f96;
+    font-size: 20px;
+    font-weight: 800;
+}
+body{
+    margin: 10px 450px;
+    background-image: url("bg3.jpg");
+    background-size: cover;
+}
+#button{
+    border-radius: 15px;
+    background: #e0f2c9;
+    padding: 20px; 
+    width: 100px;
+    height: 50px;  
+    font-weight: 800;
+}
+#a2{
+    font-size: 20px;
+}
+#terms{
+width: 35px;
+height: 35px;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    color: rgb(235, 45, 45);
+    font-family: Georgia;
+    text-decoration: underline;
+}
